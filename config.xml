@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.anika.app"
         versionCode = "10"
-        version     = "1.6.0">
+        version     = "1.7.0">
 
     <name>Anika</name>
 
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/c8c5fe1709df576376c22b2e19c81421.png" density="xxhdpi" />
         <icon src="res/android/icon/7b6ea829d2b127fb2d3573c53544d156.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/95a9b06f1e24975605d268e14f05b3ca.png" density="port-hdpi"/>
-        <splash src="res/android/screen/ec7676f1455d7a48ac998b6c6fb500d9.png" density="port-ldpi"/>
-        <splash src="res/android/screen/5d83131a97f75ba1d383dbdaf26d7361.png" density="port-mdpi"/>
-        <splash src="res/android/screen/0a1fca00f7ab143d861183d0b964e176.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/72e3297898e7f3149a5298244e7c9458.png" density="port-hdpi"/>
+        <splash src="res/android/screen/c5556171df444f75246e862ef8822e95.png" density="port-ldpi"/>
+        <splash src="res/android/screen/527994e7e3ecb21de506477c6a0b65d6.png" density="port-mdpi"/>
+        <splash src="res/android/screen/f0e61bc8c81ae468a764966b74ff4ee5.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
