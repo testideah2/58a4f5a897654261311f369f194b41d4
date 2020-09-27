@@ -5,12 +5,12 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.anika.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
     <name>Anika</name>
 
     <description>
-        Anika.by - Ploschadka obyavleniy
+        Anika.by - Площадка объявлений в Беларуси
     </description>
 
     <author>Tadapp</author>
